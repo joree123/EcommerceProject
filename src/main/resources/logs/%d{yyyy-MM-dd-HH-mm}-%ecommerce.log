@@ -1,0 +1,291 @@
+2023-10-07-11:04:56 INFO  Application did not launch
+2023-10-07-11:05:15 INFO  Application did not launch
+2023-10-07-11:06:03 INFO  Application did not launch
+2023-10-07-12:26:30 INFO  Application did not launch
+2023-10-07-13:04:48 INFO  Application did not launch
+2023-10-07-13:15:44 INFO  Application did not launch
+2023-10-07-13:15:55 INFO  Application did not launch
+2023-10-07-13:16:25 INFO  internal wait set
+2023-10-07-13:19:46 INFO  internal wait set
+2023-10-07-14:08:27 INFO  internal wait set
+2023-10-07-14:18:56 INFO  internal wait set
+2023-10-07-14:20:28 INFO  internal wait set
+2023-10-07-14:36:33 INFO  Application did not launch
+2023-10-07-17:15:58 INFO  internal wait set
+2023-10-07-17:57:39 INFO  internal wait set
+2023-10-07-17:57:41 INFO  xord found
+2023-10-07-18:10:22 INFO  Application did not launch
+2023-10-07-18:14:56 INFO  internal wait set
+2023-10-07-18:14:58 INFO  xord found
+2023-10-07-18:33:30 INFO  internal wait set
+2023-10-07-18:33:33 INFO  xord found
+2023-10-07-19:22:02 INFO  Application did not launch
+2023-10-07-19:22:36 INFO  internal wait set
+2023-10-07-19:22:39 INFO  xord found
+2023-10-07-19:22:42 INFO  search button clicked
+2023-10-07-19:27:03 INFO  internal wait set
+2023-10-07-19:27:06 INFO  xord found
+2023-10-07-19:27:10 INFO  search button clicked
+2023-10-07-19:30:56 INFO  internal wait set
+2023-10-07-19:30:59 INFO  xord found
+2023-10-07-19:31:04 INFO  search button clicked
+2023-10-07-19:31:05 INFO  search is started
+2023-10-07-19:31:06 INFO  Found the product
+2023-10-07-21:53:37 INFO  internal wait set
+2023-10-07-21:53:40 INFO  xord found
+2023-10-07-21:53:40 INFO  yord found
+2023-10-07-21:53:40 INFO   tap on the product performed
+2023-10-07-21:53:44 INFO  search button clicked
+2023-10-07-21:53:45 INFO  search is started
+2023-10-07-21:53:46 INFO  Found the product
+2023-10-07-21:54:04 INFO  Left swipe performed
+2023-10-07-21:54:08 INFO  right swipe performed
+2023-10-07-22:23:24 INFO  internal wait set
+2023-10-07-22:23:27 INFO  xord found
+2023-10-07-22:23:27 INFO  yord found
+2023-10-07-22:23:27 INFO   tap on the product performed
+2023-10-07-22:23:30 INFO  search button clicked
+2023-10-07-22:23:32 INFO  search is started
+2023-10-07-22:23:33 INFO  Found the product
+2023-10-07-22:23:50 INFO  Left swipe performed
+2023-10-07-22:23:54 INFO  right swipe performed
+2023-10-07-22:24:18 INFO  product found
+2023-10-07-22:24:18 INFO  product is selected
+2023-10-07-22:24:20 INFO  product image is clicked
+2023-10-07-22:40:12 INFO  internal wait set
+2023-10-07-22:40:15 INFO  xord found
+2023-10-07-22:40:15 INFO  yord found
+2023-10-07-22:40:15 INFO   tap on the product performed
+2023-10-07-22:40:18 INFO  search button clicked
+2023-10-07-22:40:19 INFO  search is started
+2023-10-07-22:40:20 INFO  Found the product
+2023-10-07-22:40:37 INFO  Left swipe performed
+2023-10-07-22:40:41 INFO  right swipe performed
+2023-10-07-22:41:04 INFO  product found
+2023-10-07-22:41:05 INFO  product is selected
+2023-10-07-22:41:06 INFO  product image is clicked
+2023-10-08-12:33:13 INFO  internal wait set
+2023-10-08-12:33:19 INFO  product found
+2023-10-08-12:33:19 INFO  product is selected
+2023-10-08-12:43:03 INFO  internal wait set
+2023-10-08-12:43:11 INFO  product found
+2023-10-08-12:43:11 INFO  product is selected
+2023-10-08-12:43:13 INFO  product price checked
+2023-10-08-12:43:16 INFO  quantity of the order entered
+2023-10-08-12:53:48 INFO  internal wait set
+2023-10-08-12:54:04 INFO  product found
+2023-10-08-12:54:05 INFO  product is selected
+2023-10-08-12:54:05 INFO  product price checked
+2023-10-08-13:00:31 INFO  internal wait set
+2023-10-08-13:00:47 INFO  product found
+2023-10-08-13:00:47 INFO  product is selected
+2023-10-08-13:00:47 INFO  product price checked
+2023-10-08-13:07:50 INFO  internal wait set
+2023-10-08-13:07:58 INFO  product found
+2023-10-08-13:07:58 INFO  product is selected
+2023-10-08-13:08:00 INFO  product price checked
+2023-10-08-13:08:01 INFO  add to cart button clicked
+2023-10-08-13:08:02 INFO  number of quantity entered
+2023-10-08-13:08:03 INFO  checking cart
+2023-10-08-18:29:56 INFO  Application did not launch
+2023-10-08-18:30:57 INFO  internal wait set
+2023-10-08-18:31:03 INFO  product found
+2023-10-08-18:31:03 INFO  product is selected
+2023-10-08-18:31:03 INFO  product price checked
+2023-10-08-18:32:57 INFO  internal wait set
+2023-10-08-18:33:05 INFO  product found
+2023-10-08-18:33:07 INFO  product is selected
+2023-10-08-18:33:07 INFO  product price checked
+2023-10-08-18:33:08 INFO  add to cart button clicked
+2023-10-08-18:33:09 INFO  number of quantity entered
+2023-10-08-18:33:11 INFO  checking cart
+2023-10-08-18:38:04 INFO  internal wait set
+2023-10-08-18:38:20 INFO  product found
+2023-10-08-18:38:20 INFO  product is selected
+2023-10-08-18:38:21 INFO  product price checked
+2023-10-08-18:43:07 INFO  internal wait set
+2023-10-08-18:43:09 INFO  xord found
+2023-10-08-18:43:09 INFO  yord found
+2023-10-08-18:43:09 INFO   tap on the product performed
+2023-10-08-18:43:12 INFO  search button clicked
+2023-10-08-18:43:14 INFO  search is started
+2023-10-08-18:43:15 INFO  Found the product
+2023-10-08-18:43:32 INFO  Left swipe performed
+2023-10-08-18:43:37 INFO  right swipe performed
+2023-10-08-18:43:59 INFO  product found
+2023-10-08-18:44:00 INFO  product is selected
+2023-10-08-18:44:01 INFO  product image is clicked
+2023-10-08-18:45:25 INFO  internal wait set
+2023-10-08-18:45:33 INFO  product found
+2023-10-08-18:45:35 INFO  product is selected
+2023-10-08-18:45:35 INFO  product price checked
+2023-10-08-18:45:36 INFO  add to cart button clicked
+2023-10-08-18:45:37 INFO  number of quantity entered
+2023-10-08-18:45:38 INFO  checking cart
+2023-10-08-18:45:39 INFO  total price checked
+2023-10-08-20:16:10 INFO  internal wait set
+2023-10-08-20:16:18 INFO  product found
+2023-10-08-20:16:18 INFO  product is selected
+2023-10-08-20:16:20 INFO  add to cart button clicked
+2023-10-08-20:16:22 INFO  number of quantity entered
+2023-10-08-20:16:30 INFO  product found
+2023-10-08-20:16:31 INFO  product is selected
+2023-10-08-20:16:32 INFO  add to cart button clicked
+2023-10-08-20:16:35 INFO  checking cart
+2023-10-08-20:18:13 INFO  internal wait set
+2023-10-08-20:18:22 INFO  product found
+2023-10-08-20:18:22 INFO  product is selected
+2023-10-08-20:18:24 INFO  add to cart button clicked
+2023-10-08-20:18:25 INFO  number of quantity entered
+2023-10-08-20:18:33 INFO  product found
+2023-10-08-20:18:34 INFO  product is selected
+2023-10-08-20:18:35 INFO  add to cart button clicked
+2023-10-08-20:18:38 INFO  checking cart
+2023-10-08-20:24:39 INFO  internal wait set
+2023-10-08-20:24:49 INFO  product found
+2023-10-08-20:24:50 INFO  product is selected
+2023-10-08-20:24:51 INFO  add to cart button clicked
+2023-10-08-20:24:52 INFO  number of quantity entered
+2023-10-08-20:25:02 INFO  product found
+2023-10-08-20:25:03 INFO  product is selected
+2023-10-08-20:25:03 INFO  add to cart button clicked
+2023-10-08-20:28:12 INFO  internal wait set
+2023-10-08-20:28:19 INFO  product found
+2023-10-08-20:28:20 INFO  product is selected
+2023-10-08-20:28:22 INFO  add to cart button clicked
+2023-10-08-20:28:23 INFO  number of quantity entered
+2023-10-08-20:28:31 INFO  product found
+2023-10-08-20:28:31 INFO  product is selected
+2023-10-08-20:28:33 INFO  add to cart button clicked
+2023-10-08-20:28:36 INFO  checking cart
+2023-10-08-20:34:06 INFO  internal wait set
+2023-10-08-20:34:22 INFO  product found
+2023-10-08-20:34:22 INFO  product is selected
+2023-10-08-20:34:23 INFO  add to cart button clicked
+2023-10-08-20:35:02 INFO  internal wait set
+2023-10-08-20:35:10 INFO  product found
+2023-10-08-20:35:12 INFO  product is selected
+2023-10-08-20:35:12 INFO  add to cart button clicked
+2023-10-08-20:35:14 INFO  number of quantity entered
+2023-10-08-20:35:23 INFO  product found
+2023-10-08-20:35:24 INFO  product is selected
+2023-10-08-20:35:25 INFO  add to cart button clicked
+2023-10-08-20:35:28 INFO  checking cart
+2023-10-08-20:41:53 INFO  internal wait set
+2023-10-08-20:41:58 INFO  product found
+2023-10-08-20:41:59 INFO  product is selected
+2023-10-08-20:41:59 INFO  add to cart button clicked
+2023-10-08-20:52:10 INFO  internal wait set
+2023-10-08-20:52:18 INFO  product found
+2023-10-08-20:52:20 INFO  product is selected
+2023-10-08-20:52:21 INFO  add to cart button clicked
+2023-10-08-20:52:22 INFO  number of quantity entered
+2023-10-08-20:52:32 INFO  product found
+2023-10-08-20:52:33 INFO  product is selected
+2023-10-08-20:52:34 INFO  add to cart button clicked
+2023-10-08-20:52:38 INFO  checking cart
+2023-10-08-21:03:13 INFO  internal wait set
+2023-10-08-21:03:30 INFO  product found
+2023-10-08-21:03:30 INFO  product is selected
+2023-10-08-21:03:30 INFO  add to cart button clicked
+2023-10-08-21:04:29 INFO  internal wait set
+2023-10-08-21:04:37 INFO  product found
+2023-10-08-21:04:39 INFO  product is selected
+2023-10-08-21:04:40 INFO  add to cart button clicked
+2023-10-08-21:04:41 INFO  number of quantity entered
+2023-10-08-21:04:51 INFO  product found
+2023-10-08-21:04:51 INFO  product is selected
+2023-10-08-21:04:53 INFO  add to cart button clicked
+2023-10-08-21:04:55 INFO  checking cart
+2023-10-08-21:04:57 INFO  products successfully added
+2023-10-08-21:23:21 INFO  internal wait set
+2023-10-08-21:23:32 INFO  product found
+2023-10-08-21:23:33 INFO  product is selected
+2023-10-08-21:23:34 INFO  add to cart button clicked
+2023-10-08-21:23:35 INFO  number of quantity entered
+2023-10-08-21:23:45 INFO  product found
+2023-10-08-21:23:46 INFO  product is selected
+2023-10-08-21:23:46 INFO  add to cart button clicked
+2023-10-08-21:26:03 INFO  internal wait set
+2023-10-08-21:26:11 INFO  product found
+2023-10-08-21:26:12 INFO  product is selected
+2023-10-08-21:26:14 INFO  add to cart button clicked
+2023-10-08-21:26:15 INFO  number of quantity entered
+2023-10-08-21:26:24 INFO  product found
+2023-10-08-21:26:26 INFO  product is selected
+2023-10-08-21:26:27 INFO  add to cart button clicked
+2023-10-08-21:26:29 INFO  checking cart
+2023-10-08-21:26:31 INFO  products successfully added
+2023-10-08-21:39:53 INFO  Application did not launch
+2023-10-08-21:39:53 INFO  Application did not launch
+2023-10-08-21:39:58 INFO  internal wait set
+2023-10-08-21:40:06 INFO  product found
+2023-10-08-21:40:06 INFO  product is selected
+2023-10-08-21:40:08 INFO  add to cart button clicked
+2023-10-08-21:40:10 INFO  number of quantity entered
+2023-10-08-21:40:19 INFO  product found
+2023-10-08-21:40:20 INFO  product is selected
+2023-10-08-21:40:21 INFO  add to cart button clicked
+2023-10-08-21:40:24 INFO  checking cart
+2023-10-08-21:40:25 INFO  products successfully added
+2023-10-08-21:41:27 INFO  internal wait set
+2023-10-08-21:41:33 INFO  xord found
+2023-10-08-21:41:33 INFO  yord found
+2023-10-08-21:41:33 INFO   tap on the product performed
+2023-10-08-21:41:34 INFO  search button clicked
+2023-10-08-21:41:36 INFO  search is started
+2023-10-08-21:41:37 INFO  Found the product
+2023-10-08-21:41:54 INFO  Left swipe performed
+2023-10-08-21:41:59 INFO  right swipe performed
+2023-10-08-21:42:21 INFO  product found
+2023-10-08-21:42:21 INFO  product is selected
+2023-10-08-21:42:22 INFO  product image is clicked
+2023-10-08-21:42:36 INFO  internal wait set
+2023-10-08-21:42:44 INFO  product found
+2023-10-08-21:42:46 INFO  product is selected
+2023-10-08-21:42:46 INFO  product price checked
+2023-10-08-21:42:47 INFO  add to cart button clicked
+2023-10-08-21:42:48 INFO  number of quantity entered
+2023-10-08-21:42:49 INFO  checking cart
+2023-10-08-21:42:50 INFO  total price checked
+2023-10-08-21:43:04 INFO  internal wait set
+2023-10-08-21:43:12 INFO  product found
+2023-10-08-21:43:12 INFO  product is selected
+2023-10-08-21:43:14 INFO  add to cart button clicked
+2023-10-08-21:43:15 INFO  number of quantity entered
+2023-10-08-21:43:24 INFO  product found
+2023-10-08-21:43:24 INFO  product is selected
+2023-10-08-21:43:26 INFO  add to cart button clicked
+2023-10-08-21:43:29 INFO  checking cart
+2023-10-08-21:43:30 INFO  products successfully added
+2023-10-10-08:32:25 INFO  internal wait set
+2023-10-10-08:32:49 INFO  internal wait set
+2023-10-10-08:33:12 INFO  internal wait set
+2023-10-10-08:36:45 INFO  internal wait set
+2023-10-10-08:39:29 INFO  internal wait set
+2023-10-10-09:02:58 INFO  driver created
+2023-10-10-09:02:58 INFO  internal wait set
+2023-10-10-09:37:52 INFO  driver created
+2023-10-10-09:37:52 INFO  internal wait set
+2023-10-10-09:43:25 INFO  driver created
+2023-10-10-09:43:25 INFO  internal wait set
+2023-10-10-10:08:47 INFO  Application did not launch
+2023-10-10-10:09:29 INFO  Application did not launch
+2023-10-10-10:12:13 INFO  Application did not launch
+2023-10-10-10:17:33 INFO  Application did not launch
+2023-10-10-10:25:41 INFO  Application did not launch
+2023-10-10-14:26:56 INFO  Application did not launch
+2023-10-12-09:08:05 INFO  Application did not launch
+2023-10-12-09:08:30 INFO  Application did not launch
+2023-10-12-09:18:52 INFO  Application did not launch
+2023-10-12-09:26:02 INFO  Application did not launch
+2023-10-12-09:26:02 INFO  Application did not launch
+2023-10-12-09:26:02 INFO  Application did not launch
+2023-10-12-09:33:43 INFO  Application did not launch
+2023-10-12-12:25:07 INFO  Application did not launch
+2023-10-12-14:54:26 INFO  driver created
+2023-10-12-14:54:26 INFO  internal wait set
+2023-10-13-07:51:21 INFO  driver created
+2023-10-13-07:51:21 INFO  internal wait set
+2023-10-13-07:51:53 INFO  driver created
+2023-10-13-07:51:53 INFO  internal wait set
