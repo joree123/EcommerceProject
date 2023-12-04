@@ -27,7 +27,7 @@ public class BaseTest {
 	static ExtentSparkReporter reporter;
 	public static ExtentTest test=null;
 	
-	public static AppiumDriver driver;
+	public static AndroidDriver driver;
 	
 	
 	
@@ -69,13 +69,13 @@ public class BaseTest {
 		
 		return dc;
 	}
-		public static AppiumDriver getDriver()
+		public static AndroidDriver getDriver()
 		{
 			
 		 DesiredCapabilities dc1=setCapabilities();
 		try
 		{
-			driver=new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"),dc1);	
+			driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),dc1);	
 		}
 		catch(Exception e)
 		{

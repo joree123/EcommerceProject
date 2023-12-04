@@ -289,3 +289,63 @@
 2023-10-13-07:51:21 INFO  internal wait set
 2023-10-13-07:51:53 INFO  driver created
 2023-10-13-07:51:53 INFO  internal wait set
+2023-11-28-10:40:38 INFO  Application did not launch
+2023-11-28-10:44:19 INFO  Application did not launch
+2023-11-28-10:45:50 INFO  Application did not launch
+2023-11-28-10:48:44 INFO  Application did not launch
+2023-11-28-10:57:18 INFO  Application did not launch
+2023-11-28-11:02:22 INFO  Application did not launch
+2023-11-28-12:03:12 INFO  Application did not launch
+2023-11-28-12:05:08 INFO  Application did not launch
+2023-11-28-12:07:41 INFO  driver created
+2023-11-28-12:07:41 INFO  internal wait set
+2023-11-28-12:13:32 INFO  driver created
+2023-11-28-12:13:32 INFO  internal wait set
+2023-11-28-12:13:41 INFO  product found
+2023-11-28-12:13:41 INFO  product is selected
+2023-11-28-12:13:44 INFO  product price checked
+2023-11-28-12:13:44 INFO  add to cart button clicked
+2023-11-28-12:13:45 INFO  number of quantity entered
+2023-11-28-12:13:47 INFO  checking cart
+2023-11-28-12:15:48 INFO  driver created
+2023-11-28-12:15:49 INFO  internal wait set
+2023-11-28-12:15:58 INFO  product found
+2023-11-28-12:15:58 INFO  product is selected
+2023-11-28-12:16:01 INFO  product price checked
+2023-11-28-12:16:01 INFO  add to cart button clicked
+2023-11-28-12:16:19 INFO  number of quantity entered
+2023-11-28-12:17:03 INFO  checking cart
+2023-11-28-12:21:06 INFO  driver created
+2023-11-28-12:21:07 INFO  internal wait set
+2023-11-28-12:21:24 INFO  product found
+2023-11-28-12:21:24 INFO  product is selected
+2023-11-28-12:21:26 INFO  product price checked
+2023-11-28-12:21:26 INFO  add to cart button clicked
+2023-11-28-12:22:30 INFO  driver created
+2023-11-28-12:22:31 INFO  internal wait set
+2023-11-28-12:22:39 INFO  product found
+2023-11-28-12:22:40 INFO  product is selected
+2023-11-28-12:22:41 INFO  product price checked
+2023-11-28-12:22:42 INFO  add to cart button clicked
+2023-11-28-12:23:00 INFO  number of quantity entered
+2023-11-28-12:23:19 INFO  checking cart
+2023-11-28-12:33:05 INFO  driver created
+2023-11-28-12:33:05 INFO  internal wait set
+2023-11-28-12:33:15 INFO  product found
+2023-11-28-12:33:17 INFO  product is selected
+2023-11-28-12:33:17 INFO  product price checked
+2023-11-28-12:33:18 INFO  add to cart button clicked
+2023-11-28-12:33:19 INFO  number of quantity entered
+2023-11-28-12:33:21 INFO  checking cart
+2023-11-28-12:33:21 INFO  total price checked
+2023-11-28-12:34:36 INFO  driver created
+2023-11-28-12:34:36 INFO  internal wait set
+2023-11-28-12:34:46 INFO  product found
+2023-11-28-12:34:47 INFO  product is selected
+2023-11-28-12:34:48 INFO  add to cart button clicked
+2023-11-28-12:34:49 INFO  number of quantity entered
+2023-11-28-12:34:59 INFO  product found
+2023-11-28-12:35:01 INFO  product is selected
+2023-11-28-12:35:02 INFO  add to cart button clicked
+2023-11-28-12:35:04 INFO  checking cart
+2023-11-28-12:35:06 INFO  products successfully added

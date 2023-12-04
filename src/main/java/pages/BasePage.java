@@ -43,13 +43,13 @@ public class BasePage
 		return location;
 	}
 	
-	public static void scrollPageAndChooseProduct(AppiumDriver driver,String nameOfProduct)
+	public static void scrollPageAndChooseProduct (AndroidDriver driver,String nameOfProduct)
 	{
-		((AndroidDriver) driver).findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()"
+		 driver.findElementByAndroidUIAutomator("new UiScrollable(new UiSelector()"
 				+ ".resourceId(\"com.solodroid.solomerce:id/viewpager\"))"
 				+ ".scrollForward().scrollIntoView(new UiSelector().textContains(\""+nameOfProduct+"\"))");
 		logger.info("product found");
-		((AndroidDriver) driver).findElementByAndroidUIAutomator("new UiSelector().textContains(\""+nameOfProduct+"\")").click();
+		 driver.findElementByAndroidUIAutomator("new UiSelector().textContains(\""+nameOfProduct+"\")").click();
 		logger.info("product is selected");
 	}
 	

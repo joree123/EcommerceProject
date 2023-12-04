@@ -19,7 +19,7 @@ public void checkoutProduct()
 	BasePage bp=new BasePage();
 	bp.scrollPageAndChooseProduct(driver, "Samsung Galaxy S10 - Black");
 	SearchProductPage sp=new SearchProductPage(driver);
-	int productPrice=Integer.parseInt(sp.individualProductPrice.getText().split(" ")[0]);
+	Double productPrice=Double.parseDouble(sp.individualProductPrice.getText().split(" ")[0]);
 	logger.info("product price checked");
 	sp.addToCartButton.click();
 	logger.info("add to cart button clicked");
@@ -35,8 +35,9 @@ public void checkoutProduct()
 	
 	 String stotalPrice=cp.prodPrice.getText();
 	 System.out.println(stotalPrice);
-	int totalPrice=Integer.parseInt(stotalPrice.split(" ")[0].replace(".", ""));
+	double totalPrice=Double.parseDouble(stotalPrice.split(" ")[0].replace(".",""));
 	System.out.println(totalPrice);
+	System.out.println(productPrice*quan);
 	if((productPrice*quan)==totalPrice)
 	{
 	logger.info("total price checked");	

@@ -33,7 +33,7 @@ public class LaunchApp {
 		//dc.setCapability("unlockPattern", "14569");
 		
 		dc.setCapability("appActivity", ".activities.ActivitySplash");
-		AppiumDriver driver=new AppiumDriver(new URL("http://127.0.0.1:4723/wd/hub"),dc);
+		AndroidDriver driver=new AndroidDriver(new URL("http://127.0.0.1:4723/wd/hub"),dc);
 		/*driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
 		driver.findElement(By.id("com.solodroid.solomerce:id/nav_profile")).click();
 	    WebElement category=driver.findElement(By.id("com.solodroid.solomerce:id/nav_category"));
